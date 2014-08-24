@@ -27,3 +27,7 @@ This is my first OpenSCAD model, so if you have any tips on making this thing be
 * Choose *File -> Export ->  Export as STL*
 
 Now you have a STL file you can use with your particular setup.
+
+##Troubleshooting
+
+I you enter a parameter value that continually crashes OpenSCAD when opening the file (from auto rendering). The easiest way to fix this is to simply open the *.scad* file into a Text Editor like TextEdit on OSX, Notepad on Windows, or Vim on Linux/Unix and fix the last value you changed. Then try re-opening in OpenSCAD to see if it fixes your problem.
