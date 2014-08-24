@@ -5,6 +5,7 @@
  Updated: 8/23/2014
 
  http://www.thingiverse.com/thing:439239
+ https://github.com/drofnas/SCAD-Knurled-Nut-Knob
 
  This script is licensed under the Public Domain license.
 -----------------------------------------------
